@@ -7,7 +7,7 @@
 **I am Atharva :grin:**
 
 - :books: Incoming **Master's student(CS) Lakehead University** this Spring'21.
-- 🔭 I’m currently working on application of deep learning algorithm on Sentence Simplification tasks
+- 🔭 I’m currently working on application of deep learning algorithms on Sentence Simplification tasks
 - 🌱 I’m currently learning **Docker**, **Django.**
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
 - ⚡ Fun fact: I like rock music and astrophysics 
