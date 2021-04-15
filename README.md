@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atharva-phatak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="atharva-phatak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atharva-phatak" target="blank"><img align="center" src="https://raw.githubusercontent.com/Atharva-Phatak/Atharva-Phatak/main/images/icons8-linkedin.svg" alt="atharva-phatak" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharvap329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="atharvap329" height="30" width="40" /></a>
   <a href="mailTo:athp456@gmail.com">
-  <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />
+  <img align="left" alt="Pavan's Facebook" width="22px" src="https://raw.githubusercontent.com/Atharva-Phatak/Atharva-Phatak/main/images/icons8-gmail(1).svg" />
 </a>
 </p>
 
