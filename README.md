@@ -37,4 +37,4 @@
  </p>
 
 ### My modest stats (in progress...)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
