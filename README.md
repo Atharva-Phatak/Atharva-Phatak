@@ -1,4 +1,4 @@
-### Hi there 👋
+![img](https://github.com/Atharva-Phatak/Atharva-Phatak/blob/main/images/Intro.gif)
 
 
 
