@@ -1,12 +1,11 @@
 ![img](https://github.com/Atharva-Phatak/Atharva-Phatak/blob/main/images/Intro.gif)
 
 
-
 <br />
 
 **I am Atharva :grin:**
 
-- :books: Incoming **Master's student(CS) Lakehead University** this Spring'21.
+- :books: **Master's student(CS) Lakehead University** this Spring'21.
 - 🔭 I’m currently working on application of deep learning algorithms on Sentence Simplification tasks
 - 🌱 I’m currently learning **Docker**, **Django.**
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
