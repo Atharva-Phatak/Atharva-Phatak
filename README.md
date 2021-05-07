@@ -5,9 +5,9 @@
 
 **I am Atharva :grin:**
 
-- :books: **Master's student(CS) Lakehead University** this Spring'21.
+- :books: **Master's student(CS) Lakehead University***
 - 🔭 I’m currently working on application of deep learning algorithms on Sentence Simplification tasks.
--  :tada: I have created [TorchFlare](https://github.com/Atharva-Phatak/torchflare), a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. 
+-  :tada: I have created ***[TorchFlare](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. 
 - 🌱 I’m currently learning **Docker**, **Django.**
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
 - ⚡ Fun fact: I like rock music and astrophysics 
