@@ -10,6 +10,7 @@
 -  :tada: I have created ***[TorchFlare](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. 
 - 🌱 I’m currently learning **Docker**, **Django** , **Flutter**.
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
+- I am Kaggle Competitions Expert.
 - ⚡ Fun fact: I like rock music and astrophysics 
 
 <h3 align="left">Connect with me:</h3>
