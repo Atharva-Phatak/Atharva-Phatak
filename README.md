@@ -8,10 +8,10 @@
 - :books: ***Master's student(CS) Lakehead University***
 - 🔭 I’m currently working on application of deep learning algorithms on Sentence Simplification tasks.
 -  :tada: I have created ***[TorchFlare](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework train your models effortlessly. 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **HTML**,**CSS**,**Javascript**.
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
 - I am Kaggle Competitions Expert.
-- ⚡ Fun fact: I like rock music and astrophysics 
+- ⚡ Fun fact: I like rock music and astrophysics and in my spare time I am learning String Theory.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
