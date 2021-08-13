@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **HTML**,**CSS**,**Javascript**.
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
 - I am Kaggle Competitions Expert.
-- ⚡ Fun fact: I like rock music and astrophysics and in my spare time I am learning String Theory.
+- ⚡ Fun fact: I like rock music and astrophysics and in my spare time I am learning **String Theory**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
