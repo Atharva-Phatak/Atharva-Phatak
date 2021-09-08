@@ -39,5 +39,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Phatak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### My modest stats (in progress...)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&hide_border=true&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
