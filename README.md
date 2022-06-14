@@ -10,7 +10,7 @@
 -  :tada: I have created ***[TorchFlare : Easy Model Training and Experimentation](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework to train your models effortlessly. 
 - 🌱 I’m currently learning **HTML**,**CSS**,**Javascript**.
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
-- 💙 I love to contribute to Open source softwares.
+- 💙 I love to contribute to Open source libraries.
 - I am Kaggle Competitions Expert.
 - ⚡ Fun fact: I like rock music and astrophysics and in my spare time I am learning **String Theory**.
 
