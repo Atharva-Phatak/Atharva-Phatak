@@ -43,4 +43,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&hide_border=true&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Atharva-Phatak&color=blue)
 
