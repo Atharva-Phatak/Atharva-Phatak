@@ -37,7 +37,12 @@
   <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindcss" width="40" height="40"/> </a> 
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="40" height="40"/> </a> 
+     <a href="https://huggingface.co/docs/transformers/index" target="_blank"> <img src="https://luxcapital-website-media.s3.amazonaws.com/wp-content/uploads/2019/12/23115642/Logo-600x554.png" alt="Huggingface" width="40" height="40"/> </a> 
+     
  </p>
+ 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atharva-Phatak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
