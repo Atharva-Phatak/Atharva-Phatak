@@ -40,8 +40,6 @@
      <a href="https://huggingface.co/docs/transformers/index" target="_blank"> <img src="https://luxcapital-website-media.s3.amazonaws.com/wp-content/uploads/2019/12/23115642/Logo-600x554.png" alt="Huggingface" width="40" height="40"/> </a> 
  </p>
  
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&hide_border=true&show_icons=true&hide_title=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Phatak&count_private=true)
 
 
