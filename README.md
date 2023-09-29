@@ -6,7 +6,7 @@
 **I am Atharva :grin:**
 
 - :books: ***Master's student(CS) Lakehead University***
-- 🔭 I’m currently looking for a full-time role in the field of Software Developement or Data Science.
+- 🔭 I’m currently applying my skills to build a highly scalable pharma SaaS platform at ODAIA.
 -  :tada: I have created ***[TorchFlare : Easy Model Training and Experimentation](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework to train your models effortlessly. 
 - 🌱 I’m currently learning **Android Developement** and **ReactJS**.
 - 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
