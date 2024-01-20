@@ -5,11 +5,10 @@
 
 **I am Atharva :grin:**
 
+- ⭐ Machine Learning Engineer @ Odaia
 - :books: ***Master's student(CS) Lakehead University***
-- 🔭 I’m currently applying my skills to build a highly scalable pharma SaaS platform at ODAIA.
 -  :tada: I have created ***[TorchFlare : Easy Model Training and Experimentation](https://github.com/Atharva-Phatak/torchflare)***, a simple, beginner-friendly, and easy-to-use PyTorch Framework to train your models effortlessly. 
-- 🌱 I’m currently learning **Android Developement** and **ReactJS**.
-- 👯 I’m looking to collaborate on new Deep Learning and Machine Learning Projects.
+- 🌱 I enjoy building full scale end to end ML systems leveraging best MLOps practices.
 - I am core contributor [Pytorch Lightning-bolts](https://github.com/Lightning-AI/lightning-bolts)
 - 💙 I love to contribute to Open source libraries like [Pytorch-Lightning](https://lightning.ai/), [Lightly](https://github.com/lightly-ai/lightly) and many more !
 - I am Kaggle Competitions Expert.
