@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Machine Learning Engineer at **[Odaia](https://odaia.ai)**, where I focus on building robust, production-grade ML pipelines that deliver real business impact.
+I'm a Machine Learning Engineer at Afres, where I focus on building robust, production-grade ML pipelines that deliver real business impact.
 
 My work spans the entire machine learning lifecycle — from **data ingestion and experimentation**, to **model deployment and observability**, always backed by solid MLOps principles. I believe ML is more than just training models — it's about building **systems that learn and last**.
 
